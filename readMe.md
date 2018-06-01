@@ -13,3 +13,11 @@ Clone the project!
 -Stuff
 -Chair
 -Whiteboard
+
+## License
+
+MIT LICENSE
+
+##Author
+
+Steve
